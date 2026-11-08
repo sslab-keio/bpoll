@@ -1,0 +1,9 @@
+install
+preempt
+tests/memif_sched
+tests/test_core
+tests/test_memseg_hook.so
+*.so
+*.o
+*.a
+__pycache__

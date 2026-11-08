@@ -1,0 +1,9 @@
+[submodule "examples/bench-iip"]
+	path = examples/bench-iip
+	url = https://github.com/yasukata/bench-iip.git
+[submodule "examples/iip"]
+	path = examples/iip
+	url = https://github.com/yasukata/iip.git
+[submodule "examples/iip-dpdk"]
+	path = examples/iip-dpdk
+	url = https://github.com/yasukata/iip-dpdk.git
